@@ -19,14 +19,14 @@ python "Profile Generator.py"
 Enter your first name, last name, age (as a whole number), city, and occupation when prompted. For example:
 
 ```text
-Enter your first name: Ada
-Enter your last name: Lovelace
+Enter your first name: Grace
+Enter your last name: Hopper
 Enter your age: 36
 Enter your city: London
-Enter your occupation: Analyst
+Enter your occupation: Teacher
 ```
 
-The program prints a profile card with those details and a short first-person description. The city and occupation are displayed in title case, and the description adjusts the article for occupations beginning with a vowel.
+The program prints a profile card with those details and a short first-person description. The city and occupation are displayed in title case.
 
 ## Help
 
